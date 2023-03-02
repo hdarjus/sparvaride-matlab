@@ -25,7 +25,7 @@ There are three functions and two further Matlab files in this repository.
 
 ## How to use
 
-You need to have Matlab on your computer first.
+You need to have Matlab on your computer first; I tested it with Matlab R2021b.
 Then, you have to download the `.m` files of this repository onto your computer and put them into your Matlab's working directory.
 See `tests.m` in this repository for code examples.
 Execute `run_tests.m` to run the unit tests.
