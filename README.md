@@ -36,7 +36,7 @@ Please cite our working papers if you use the code.
 
 ### Relevant paper for citing the `is_identified` function:
 
-Darjus Hosszejni and Sylvia Frühwirth-Schnatter (2022). "Cover It Up! Bipartite Graphs Uncover Identifiability in Sparse Factor Analysis." doi:10.48550/arXiv.2211.00671
+<blockquote>Darjus Hosszejni and Sylvia Frühwirth-Schnatter (2022). "Cover It Up! Bipartite Graphs Uncover Identifiability in Sparse Factor Analysis." doi:10.48550/arXiv.2211.00671</blockquote>
 
 A BibTeX entry for LaTeX users is
 
@@ -50,7 +50,7 @@ A BibTeX entry for LaTeX users is
 
 ### Relevant paper for citing the `to_glt` function:
 
-Sylvia Frühwirth-Schnatter, Darjus Hosszejni, and Hedibert Freitas Lopes (2023). "When It Counts - Econometric Identification of the Basic Factor Model Based on GLT Structures." doi:10.48550/arXiv.2301.06354
+<blockquote>Sylvia Frühwirth-Schnatter, Darjus Hosszejni, and Hedibert Freitas Lopes (2023). "When It Counts - Econometric Identification of the Basic Factor Model Based on GLT Structures." doi:10.48550/arXiv.2301.06354</blockquote>
 
 A BibTex entry for LaTeX users is
 
