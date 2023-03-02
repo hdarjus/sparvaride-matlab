@@ -25,8 +25,8 @@ rotated_matrix=rotation_matrix*sparse_matrix';
 testCase.verifyEqual(to_glt(rotated_matrix), sparse_matrix', 'AbsTol', 2*sqrt(eps));
 end
 
-%% Test 'is_identified_identicator'
-function test_is_identified_identicator(testCase)
+%% Test 'is_identified_indicator'
+function test_is_identified_indicator(testCase)
 test_cases={...
     struct('matrix',1,'result',false),...
     struct('matrix',[1; 1],'result',false),...
